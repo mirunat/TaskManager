@@ -1,4 +1,3 @@
-# projectWebSem
 It is a website built with Twitter Bootstrap, PHP, MySQL and XML which stores tasks. 
 It has the following pages:
 - registration/login 
